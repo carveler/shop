@@ -25,6 +25,6 @@ Please check Take away resutaurant app (cart) using React and Redux.
 ## Tech & tools
 
 - React (Hooks API)
-- Context API
+- Context API & Reducer
 - React Router
 
